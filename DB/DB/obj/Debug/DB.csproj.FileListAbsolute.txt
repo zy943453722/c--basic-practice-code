@@ -1,0 +1,9 @@
+E:\vs\homework\DB\DB\bin\Debug\DB.exe.config
+E:\vs\homework\DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+E:\vs\homework\DB\DB\obj\Debug\DB.Form1.resources
+E:\vs\homework\DB\DB\obj\Debug\DB.Properties.Resources.resources
+E:\vs\homework\DB\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+E:\vs\homework\DB\DB\bin\Debug\DB.exe
+E:\vs\homework\DB\DB\bin\Debug\DB.pdb
+E:\vs\homework\DB\DB\obj\Debug\DB.exe
+E:\vs\homework\DB\DB\obj\Debug\DB.pdb

@@ -1,0 +1,9 @@
+E:\vs\homework\signal\signal\bin\Debug\signal.exe.config
+E:\vs\homework\signal\signal\obj\Debug\signal.csprojResolveAssemblyReference.cache
+E:\vs\homework\signal\signal\obj\Debug\signal.Form1.resources
+E:\vs\homework\signal\signal\obj\Debug\signal.Properties.Resources.resources
+E:\vs\homework\signal\signal\obj\Debug\signal.csproj.GenerateResource.Cache
+E:\vs\homework\signal\signal\bin\Debug\signal.exe
+E:\vs\homework\signal\signal\bin\Debug\signal.pdb
+E:\vs\homework\signal\signal\obj\Debug\signal.exe
+E:\vs\homework\signal\signal\obj\Debug\signal.pdb

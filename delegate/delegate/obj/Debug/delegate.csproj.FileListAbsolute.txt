@@ -1,0 +1,9 @@
+E:\vs\homework\delegate\delegate\bin\Debug\@delegate.exe.config
+E:\vs\homework\delegate\delegate\bin\Debug\@delegate.exe
+E:\vs\homework\delegate\delegate\bin\Debug\@delegate.pdb
+E:\vs\homework\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
+E:\vs\homework\delegate\delegate\obj\Debug\delegate.Form1.resources
+E:\vs\homework\delegate\delegate\obj\Debug\delegate.Properties.Resources.resources
+E:\vs\homework\delegate\delegate\obj\Debug\delegate.csproj.GenerateResource.Cache
+E:\vs\homework\delegate\delegate\obj\Debug\@delegate.exe
+E:\vs\homework\delegate\delegate\obj\Debug\@delegate.pdb

@@ -1,0 +1,12 @@
+E:\vs\homework\test1\test1\bin\Debug\test1.exe.config
+E:\vs\homework\test1\test1\bin\Debug\test1.exe
+E:\vs\homework\test1\test1\bin\Debug\test1.pdb
+E:\vs\homework\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\vs\homework\test1\test1\obj\Debug\test1.Form1.resources
+E:\vs\homework\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\vs\homework\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\vs\homework\test1\test1\obj\Debug\test1.exe
+E:\vs\homework\test1\test1\obj\Debug\test1.pdb
+E:\vs\homework\trans_temperature\test1\bin\Debug\test1.exe.config
+E:\vs\homework\trans_temperature\test1\obj\Debug\test1.exe
+E:\vs\homework\trans_temperature\test1\obj\Debug\test1.pdb

@@ -1,0 +1,9 @@
+E:\vs\homework\event\event\bin\Debug\@event.exe.config
+E:\vs\homework\event\event\bin\Debug\@event.exe
+E:\vs\homework\event\event\bin\Debug\@event.pdb
+E:\vs\homework\event\event\obj\Debug\event.csprojResolveAssemblyReference.cache
+E:\vs\homework\event\event\obj\Debug\event.Form1.resources
+E:\vs\homework\event\event\obj\Debug\event.Properties.Resources.resources
+E:\vs\homework\event\event\obj\Debug\event.csproj.GenerateResource.Cache
+E:\vs\homework\event\event\obj\Debug\@event.exe
+E:\vs\homework\event\event\obj\Debug\@event.pdb
